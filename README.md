@@ -22,6 +22,19 @@ Tired of being stuck behind Cloudflare, hCaptcha, and Tellonym site's defenses? 
 Not only does Tellonym-Rocket break barriers, but it does so with unparalleled efficiency! With support for threading and optimized resource usage, Tellonym-Rocket ensures minimal strain on your CPU, memory, and network. So, while your tell counts skyrocket, your system stays cool and efficient, just like a well-oiled rocket engine! 🚀✨
 
 
+## 3...2...1...Lift Off! 🚀
+Prepare for launch by selecting your target user. Then, sit back, relax, and watch as we send those tells soaring into the cosmos like rockets! 🚀✨
+
+## Contact Mission Control 📡
+Questions, feedback, or just want to chat about the mysteries of the universe? Reach out to our friendly mission control team on Discord at 7w2 or open an issue on GitHub. We're here to make sure your journey with Tellonym-Rocket is smooth sailing through the stars! 🌟
+
+## Ready for Liftoff? 🚀
+Don't just sit there like a moon rock—join the Tellonym-Rocket mission today and watch your tell counts soar to new heights! 🚀🌕
+
+P.S. Remember, we're aiming for the stars, not just your ex's house! 😉✨
+
+
+
 
 
 
