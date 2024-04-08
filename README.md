@@ -1,6 +1,11 @@
 # Tellonym-Rocket-TellsV0.5.0
 Welcome aboard the Tellonym-Rocket, your ticket to blasting off tell counts on Tellonym profiles faster than the speed of light! Strap in, because we're about to take your tell game to infinity and beyond! 🚀✨
 
+## Disclaimer 🚀
+
+Me, the creator of Tellonym-Rocket, i assume no responsibility for any actions taken with this tool. It is intended for educational purposes only and it will not be publicly released.
+
+
 # Built Like A Rocket !🛰️
 Strap in for a ride fueled by the power of not one, not two, but three types of proxies—HTTP, SOCKS4, and SOCKS5! With this rocket-fueled proxy support, we're launching your tell count into the cosmos with unprecedented speed and precision. It's like strapping booster rockets onto your social interactions! 🌟🚀
 
