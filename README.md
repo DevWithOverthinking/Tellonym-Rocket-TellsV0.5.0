@@ -3,7 +3,7 @@ Welcome aboard the Tellonym-Rocket, your ticket to blasting off tell counts on T
 
 ## Disclaimer 🚀
 
-Me, the creator of Tellonym-Rocket, i assume no responsibility for any actions taken with this tool. It is intended for educational purposes only and it will not be publicly released.
+Me, the creator of Tellonym-Rocket,  assume no responsibility for any actions taken with this tool. It is intended for educational purposes only and it will not be publicly released.
 
 
 # Built Like A Rocket !🛰️
