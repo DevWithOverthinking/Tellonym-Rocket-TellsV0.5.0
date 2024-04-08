@@ -4,6 +4,8 @@ Welcome aboard the Tellonym-Rocket, your ticket to blasting off tell counts on T
 # Built Like A Rocket !🛰️
 Strap in for a ride fueled by the power of not one, not two, but three types of proxies—HTTP, SOCKS4, and SOCKS5! With this rocket-fueled proxy support, we're launching your tell count into the cosmos with unprecedented speed and precision. It's like strapping booster rockets onto your social interactions! 🌟🚀
 
+Don't have your own proxies? No need to panic! Our station is stocked with an ample supply of new premium proxies refreshed every time after a certain amount of time to keep your mission soaring smoothly through the cosmos. With Tellonym-Rocket, you'll never run out of fuel on your quest to boost those tell counts to infinity and beyond! 🌟🛰️
+
 ## Blast Off Features :star2:
 - **Turbocharged Telling:**  Watch as your tell count shoots through the stratosphere at warp speed.
 - **Easy Peasy Configuration:** Navigate through the cosmos with our user-friendly command-line interface.
